@@ -97,11 +97,10 @@
 
 .events__content {
   flex-basis: 580px;
-  display: flex;
   /* background-color: #f2f2f2; */
   background-color: #f4f4;
-  flex-direction: row;
-  justify-content: space-between;
+  /* display: flex; */
+  /* flex-direction: row; */
 }
 
 .events__heading {
@@ -163,7 +162,7 @@
 }
 
 .events__cover {
-  display: flex;
+  /* display: flex; */
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 780px;
