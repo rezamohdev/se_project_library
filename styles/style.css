@@ -97,6 +97,11 @@
 
 .events__content {
   flex-basis: 580px;
+  display: flex;
+  /* background-color: #f2f2f2; */
+  background-color: #f4f4;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .events__heading {
